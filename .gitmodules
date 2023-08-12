@@ -1,0 +1,3 @@
+[submodule "thirdparty/littlevk"]
+	path = thirdparty/littlevk
+	url = https://github.com/vedavamadathil/littlevk.git
